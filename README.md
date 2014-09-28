@@ -13,7 +13,7 @@ $ npm install
 $ npm start
 ```
 
-The crud api's provided are `/posts` and `/users`. This boilerplate follows modular approach to build apis... checkout the `[lib/](https://github.com/madhums/gokoa-demo/tree/master/lib)` folder for more...
+The crud api's provided are `/posts` and `/users`. This boilerplate follows modular approach to build apis... checkout the [`lib/`](https://github.com/madhums/gokoa-demo/tree/master/lib) folder for more...
 
 ## License
 
